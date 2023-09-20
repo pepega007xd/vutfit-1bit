@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/kiklop/projects/ivs1/build",
+  "command": "/usr/bin/c++  -I/home/kiklop/projects/ivs1/libs -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest/include -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googlemock/include -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googlemock  -g -O0 -fprofile-arcs -ftest-coverage -std=gnu++17 -o CMakeFiles/black_box_test.dir/black_box_tests.cpp.o -c /home/kiklop/projects/ivs1/black_box_tests.cpp",
+  "file": "/home/kiklop/projects/ivs1/black_box_tests.cpp"
+},
+{
+  "directory": "/home/kiklop/projects/ivs1/build",
+  "command": "/usr/bin/c++  -I/home/kiklop/projects/ivs1/libs -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest/include -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googlemock/include -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googlemock  -g -O0 -fprofile-arcs -ftest-coverage -std=gnu++17 -o CMakeFiles/tdd_test.dir/tdd_code.cpp.o -c /home/kiklop/projects/ivs1/tdd_code.cpp",
+  "file": "/home/kiklop/projects/ivs1/tdd_code.cpp"
+},
+{
+  "directory": "/home/kiklop/projects/ivs1/build",
+  "command": "/usr/bin/c++  -I/home/kiklop/projects/ivs1/libs -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest/include -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googlemock/include -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googlemock  -g -O0 -fprofile-arcs -ftest-coverage -std=gnu++17 -o CMakeFiles/tdd_test.dir/tdd_tests.cpp.o -c /home/kiklop/projects/ivs1/tdd_tests.cpp",
+  "file": "/home/kiklop/projects/ivs1/tdd_tests.cpp"
+},
+{
+  "directory": "/home/kiklop/projects/ivs1/build",
+  "command": "/usr/bin/c++  -I/home/kiklop/projects/ivs1/libs -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest/include -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googlemock/include -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googlemock  -g -O0 -fprofile-arcs -ftest-coverage -std=gnu++17 -o CMakeFiles/white_box_test.dir/white_box_tests.cpp.o -c /home/kiklop/projects/ivs1/white_box_tests.cpp",
+  "file": "/home/kiklop/projects/ivs1/white_box_tests.cpp"
+},
+{
+  "directory": "/home/kiklop/projects/ivs1/build",
+  "command": "/usr/bin/c++  -I/home/kiklop/projects/ivs1/libs -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest/include -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googlemock/include -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googlemock  -g -O0 -fprofile-arcs -ftest-coverage -std=gnu++17 -o CMakeFiles/white_box_test.dir/white_box_code.cpp.o -c /home/kiklop/projects/ivs1/white_box_code.cpp",
+  "file": "/home/kiklop/projects/ivs1/white_box_code.cpp"
+},
+{
+  "directory": "/home/kiklop/projects/ivs1/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googlemock/include -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googlemock -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest/include -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest  -g -O0 -fprofile-arcs -ftest-coverage -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/kiklop/projects/ivs1/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/kiklop/projects/ivs1/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/kiklop/projects/ivs1/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -I/home/kiklop/projects/ivs1/build/_deps/googletest-src/googlemock/include -I/home/kiklop/projects/ivs1/build/_deps/googletest-src/googlemock -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest/include -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest  -g -O0 -fprofile-arcs -ftest-coverage -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/kiklop/projects/ivs1/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/kiklop/projects/ivs1/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/kiklop/projects/ivs1/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest/include -isystem /home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest  -g -O0 -fprofile-arcs -ftest-coverage -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/kiklop/projects/ivs1/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -I/home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest/include -I/home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest  -g -O0 -fprofile-arcs -ftest-coverage -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/kiklop/projects/ivs1/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+}
+]

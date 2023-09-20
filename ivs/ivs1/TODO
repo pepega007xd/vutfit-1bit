@@ -1,0 +1,2 @@
+whitebox:
+ - test hashes of reversed strings (could be the same)
